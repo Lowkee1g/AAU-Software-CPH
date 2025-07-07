@@ -3,4 +3,5 @@
 ### Spring/Fall YEAR
 - Lecturer: 
 - ECTS: 
-- Grade Average: 
+- Grade Average:  
+![STADS/Spring2023.png](STADS/Spring2023.png)
