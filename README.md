@@ -3,32 +3,32 @@ Course list for Software Development at AAU CPH
 
 
 ## SW1
-DTG
-IMPR
-PBL
+DTG\n
+IMPR\n
+PBL\n
 
 ## SW2
-ALG
-IWP
-SLIAL
+ALG\n
+IWP\n
+SLIAL\n
 
 ## SW3
-OOP
-SU
-DEB
+OOP\n
+SU\n
+DEB\n
 
 ## SW4
-SS
-SPO
-CAOS
+SS\n
+SPO\n
+CAOS\n
 
 ## SW5
-ASE
-DBS
-MI
+ASE\n
+DBS\n
+MI\n
 
 ## SW6
-MTCPS
-AC
-SEC
+MTCPS\n
+AC\n
+SEC\n
 
