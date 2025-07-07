@@ -3,32 +3,32 @@ Course list for Software Development at AAU CPH
 
 
 ## SW1
-- DTG
-- IMPR
-- PBL
+- **DTG** - Datalogiens Teoretiske Grundlag
+- **IMPR** - Imperativ Programming
+- **PBL** - Problem Based Learning
 
 ## SW2
-- ALG
-- IWP
-- SLIAL
+- **ALG** - Algorithms and Data Structures
+- **IWP** - Internetworking and Web Programming
+- **SLIAL** - Probability Theory and Linear Algebra
 
 ## SW3
-- OOP
-- SU
-- DEB
+- **OOP** - Object-Oriented Programming
+- **SU** - Systems Development
+- **DEB** - Design and Evaluation Of User Interfaces
 
 ## SW4
-- SS
-- SPO
-- CAOS
+- **SS** - Syntax and Semantics
+- **SPO** - Language and Compilers
+- **CAOS** - Computer Architecture and Operating Systems
 
 ## SW5
-- ASE
-- DBS
-- MI
+- **ASE** - Agile Software Engineering
+- **DBS** - Database Systems
+- **MI** - Machine Intelligence
 
 ## SW6
-- MTCPS
-- AC
-- SEC
+- **MTCPS** - Models and Tools for Cyber-Physical Systems
+- **AC** - Algorithms and Computability
+- **SEC** - Security
 
