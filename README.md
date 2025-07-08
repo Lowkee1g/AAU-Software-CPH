@@ -32,3 +32,23 @@ Course list for Software Development at AAU CPH
 - **AC** - Algorithms and Computability
 - **SEC** - Security
 
+
+### Todo list
+- [x] AC
+- [x] ALG
+- [ ] ASE
+- [ ] CAOS
+- [ ] DB
+- [ ] DEB
+- [ ] DTG
+- [ ] IWP
+- [ ] IMPR
+- [ ] MTCPS
+- [ ] MI
+- [ ] OOP
+- [ ] PBL
+- [ ] SEC
+- [ ] SLIAL
+- [ ] SS
+- [ ] SPO
+- [ ] SU
