@@ -4,4 +4,4 @@
 - Lecturer: 
 - ECTS: 
 - Grade Average:  
-![STADS/Spring2023.png](STADS/Spring2023.png)
+![STADS/knowledge.jpeg](STADS/knowledge.jpeg)
