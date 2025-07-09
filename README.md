@@ -34,9 +34,9 @@ Course list for Software Development at AAU CPH
 
 
 ### Todo list
-- [x] AC
-- [x] ALG
-- [ ] ASE
+- [x] AC - with slides / exercises
+- [x] ALG - with slides / exercises
+- [x] ASE
 - [ ] CAOS
 - [ ] DB
 - [ ] DEB
