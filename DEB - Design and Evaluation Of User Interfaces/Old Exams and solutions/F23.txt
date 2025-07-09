@@ -1,0 +1,36 @@
+Exam format:
+
+
+Prepare a 5-minute presentation for each of the exam questions. You should prepare 8 presentations in total (5 minutes each).
+
+Make sure to practice the timing, as we will stop you after 5 min.
+
+During the exam, you will draw 1 question at random and present your slides to the examiner and censor
+
+Therefore, have all 8 presentations open and ready on the computer when you enter the exam room!
+
+After the presentation, there will be 10 minutes of questions from the examiner and censor
+
+The student leaves the room and the examiner and censor discuss the grade
+
+The examiner calls back the student who receives the grade
+
+Exam questions:
+
+1) The design process: Describe the phases in Benyon's design process and what the connection between the different phases is. Discuss benefits and challenges of lo-fi prototyping in the early phases of your project's design process.
+
+2) Understanding 1: Describe what PACT is  and which data collection techniques are used to uncover PACT. Choose a data collection technique relevant for your project and discuss its benefits and challenges in terms of your project goals
+
+3) Understanding 2: Describe a method for understanding user needs. Discuss when in a design process the method should be conducted and discuss why it is important to understand user needs.
+
+4) Design 1: Discuss the role of visual design principles in creating user-friendly interfaces. Provide examples of user interfaces and discuss how effectively they apply visual design principles.
+
+5) Design 2: Describe the role of prototyping in the design process and provide examples on how prototyping informs your own design process. Discuss the advantages and disadvantages of lo-fi and hi-fi prototyping.
+
+6) Evaluation 1: Describe the differences between usability and user experience, and discuss how the two can be evaluated. Discuss the most important usability and user experience aspects of your project’s user interface: How could the usability and user experience of the user interface be improved in a future redesign?
+
+7) Evaluation 2: Which methods can be used to evaluate usability and what are their advantages and disadvantages? Provide examples on the different kinds of usability problems, for example from your semester project, and discuss how usability problems can be used to improve a user interface design.
+
+8) Evaluation 3: Describe usability and accessibility and discuss how they relate to each other. Discuss the most important usability and accessibility aspects of your project’s user interface: How could the usability and accessibility of the user interface be improved in a future redesign?
+
+NB: Please see the slides from lecture 12 for more details and tips on the exam!

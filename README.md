@@ -37,9 +37,9 @@ Course list for Software Development at AAU CPH
 - [x] AC - with slides / exercises
 - [x] ALG - with slides / exercises
 - [x] ASE
-- [ ] CAOS
-- [ ] DB
-- [ ] DEB
+- [x] CAOS
+- [x] DBS
+- [x] DEB
 - [ ] DTG
 - [ ] IWP
 - [ ] IMPR
